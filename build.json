@@ -1,0 +1,11 @@
+{
+    "android": {
+        "release": {
+        "keystore": "nartub.keystore",
+        "storePassword": "nartub",
+        "alias": "nartub",
+        "password" : "nartub",
+        "keystoreType": ""
+        }
+    }
+}

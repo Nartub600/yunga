@@ -1,0 +1,15 @@
+div[page] {
+    display: none;
+}
+
+#alert {
+    z-index: 10;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: red;
+    opacity: 0.5;
+    display: none;
+}
